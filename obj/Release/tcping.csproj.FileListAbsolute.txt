@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\tcping\bin\Release\tcping.exe.config
+C:\Users\Administrator\Desktop\tcping\bin\Release\tcping.exe
+C:\Users\Administrator\Desktop\tcping\bin\Release\tcping.pdb
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.Form1.resources
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.exe
+C:\Users\Administrator\Desktop\tcping\obj\Release\tcping.pdb
